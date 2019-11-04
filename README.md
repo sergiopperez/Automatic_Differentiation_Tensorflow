@@ -5,4 +5,6 @@ __Objective__: apply automatic differentiation to train a linear regression laye
 
 Linear noisy data is initially created to serve as training data. 
 
+![images](/image/lr.png)
+
 
